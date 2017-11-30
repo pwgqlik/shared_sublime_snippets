@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+///\$tab ${1:tab name and description}
+	
+	/*
+		${2:tab description}
+	*/
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_tab</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
