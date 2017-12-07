@@ -1,12 +1,13 @@
 <snippet>
 	<content><![CDATA[
-///$tab ${1:tab name and description}
+///\$tab ${1:tab name and description}
 	
 	/*
 		About:				${2:about this tab}
 		Prerequisites:		${3:critical prerequisites}
 	*/
 
+	
 
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
